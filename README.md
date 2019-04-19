@@ -36,6 +36,7 @@ https://station.rocketseat.com.br/courses/starter
 
 ## <a name="parte1">1 - Introdução</a>
 
+- BABEL
 
 
 [Voltar ao Índice](#indice)
@@ -45,7 +46,8 @@ https://station.rocketseat.com.br/courses/starter
 
 ## <a name="parte2">2 - Instalando Node & Yarn</a>
 
-
+- https://nodejs.org
+- https://yarnpkg.com 
 
 [Voltar ao Índice](#indice)
 
