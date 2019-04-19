@@ -56,7 +56,37 @@ https://station.rocketseat.com.br/courses/starter
 
 ## <a name="parte3">3 - Configurando Babel</a>
 
+- "yarn add  @babel/cli"
+- "yarn add  @babel/preset-env"
+- "yarn add  @babel/core"
 
+```js
+{
+  "name": "1-conceitos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/cli": "^7.4.3",
+    "@babel/core": "^7.4.3",
+    "@babel/preset-env": "^7.4.3"
+  },
+  "scripts": {
+    "dev": "babel ./main.js -o ./bundle.js -w"
+  }
+}
+
+```
+
+```js
+alert("teste");
+
+class Teste{
+    metodo(){
+
+    }
+}
+```
 
 [Voltar ao Índice](#indice)
 
